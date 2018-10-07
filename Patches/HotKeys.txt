@@ -1,0 +1,12 @@
+===========================
+F1 - AI Disabled
+F2 - Armageddon
+F3 - God Mode
+F4 - You are Walking Death
+F5 - Frame Capture
+F6 - Render Lights
+F7 - Missing Texture
+F8 - Collision Debug
+F9 - Sector Info
+F10 - Full Sector Info
+===========================
