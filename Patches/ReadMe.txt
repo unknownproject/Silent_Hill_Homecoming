@@ -1,5 +1,5 @@
 Latest Patch includes:
-- Up to 4320x2160 resolution suppport;
+- Up to 4320x2160 resolution support;
 - 21:9 aspect ratio compatibility [experimental];
 - Up to 300 fps;
 - Up to 4gigs RAM usage;
