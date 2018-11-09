@@ -12,6 +12,6 @@ Latest Patch includes:
 - New debug hotkeys [You need to enable FPS counter first].
 
 Warning! Patch 1.23 is password protected.
-The password is my nickname in hex.
+The password is my nickname in hex [UpperCase].
 You are not allowed to share the password to anyone. 
 Pay respect or get the hell out of here.
