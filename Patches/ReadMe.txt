@@ -3,7 +3,7 @@ Latest Patch includes:
 - 21:9 aspect ratio compatibility [experimental];
 - Up to 300 fps;
 - Up to 4gigs RAM usage;
-- General purpose fixes
+- General purpose fixes;
 - New savegame folder ["Engine/savegame"] (don't forget to create or extract it too);
 - Dialogue synchronization with current fps;
 - Maps and items fix for the most common display resolutions;
