@@ -10,4 +10,5 @@ F8 - Collision Debug
 F9 - Sector Info
 F10 - Full Sector Info
 F11 - Ranged weapon info
+F12 - Freeze mode
 ===========================
