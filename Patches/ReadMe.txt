@@ -11,7 +11,9 @@ Latest Patch includes:
 - Isolation for QTE\Grain\Flashing animations;
 - New debug hotkeys [You need to enable FPS counter first].
 
-Warning! Patch 1.23 is password protected.
+Warning! 
+Versions <=1.22 are free to access.
+Patch 1.23+ is password protected.
 The password is my nickname in hex [UpperCase].
 And the password is....756E6B6E6F776E70726F6A656374
 
