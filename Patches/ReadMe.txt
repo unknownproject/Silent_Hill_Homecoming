@@ -1,4 +1,7 @@
 Latest Patch includes:
+- Working fpslimit function [30/60/120/144/300]
+- Friendly QTE system
+- Improved visual effects
 - Up to 4320x2160 resolution support;
 - 21:9 aspect ratio compatibility [experimental];
 - Up to 300 fps;
