@@ -29,6 +29,8 @@ You need to find two missing parts - X and Y.
 Go to this place (JunkYard).
 If you found all missing parts and combined them with existing word then you need to check it with any MD5 online service.
 Good luck.
-[X and Y = BlackForest]
+[X and Y = BlackForest].
+And the password is....BlackForestIsDeletedLocation.
+
 You are not allowed to share the password to anyone. 
 Pay respect or get the hell out of here.
