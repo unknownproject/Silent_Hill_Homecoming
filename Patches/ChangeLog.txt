@@ -53,5 +53,15 @@ Patch 1.25 - 2in1 - A and B [02.01.2019]:
 - Friendly QTE system [Prying objects/Walls] - [A - easy] / [B - auto];
 - Improved visual effects;
 =======================================================================================
-Patch 2.0 - X edition [To be announced...]
+Patch 2.0 - Unknown Project's Edition. B only.
+Update 1 [06.03.2019]:
+- Restored missing button icons/code;
+- Improved interface as result;
+- NEW feature: Button prompt switcher; 
+- Fixed resmgr function for global resources.
+*Dialogue tree and other screens have different code so you can switch the button 
+prompts for puzzles/objects/map screen/inventory/weapons/qte;
+If you want to set proper resource for target platform you need to:
+-Open default_pc.cfg and change resmgr value. 
+Don't forget to check the updated hotkeys.txt.
 =======================================================================================
