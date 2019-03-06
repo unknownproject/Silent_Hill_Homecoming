@@ -38,3 +38,13 @@ And the password is....BlackForestIsDeletedLocation.
 
 You are not allowed to share the password to anyone. 
 Pay respect or get the hell out of here.
+
+HOW TO INSTALL PATCH 2.0.
+1. Download and extract Patch2.0_upd1_main.zip to the game root folder.
+= If you don't want to change button prompts for Dialogue Tree then skip the next step =
+= but don't forget to change resmgr value to assets_pc_b.xml =
+[You can change it via default_pc.cfg]
+2. Download and extract Patch2.0_upd1_ps3.zip or/and Patch2.0_upd1_x360.zip to the game root folder.
+Done.
+
+ 
