@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [ Note: every patch iteration is cumulative and includes all previous fixes/features. ]
 
 =======================================================================================
@@ -132,5 +131,4 @@ prompts for puzzles/objects/map screen/inventory/weapons/qte;
 If you want to set proper resource for target platform you need to:
 -Open default_pc.cfg and change resmgr value. 
 Don't forget to check the updated hotkeys.txt.
->>>>>>> 84b89632d50b173fd5cab0d5cf7ae54743b0a21d
 =======================================================================================
