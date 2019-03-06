@@ -1,14 +1,16 @@
-===========================
-F1 - AI Disabled
-F2 - Armageddon
-F3 - God Mode
-F4 - You are Walking Death
-F5 - Frame Capture
-F6 - Render Lights
-F7 - Missing Texture
-F8 - Collision Debug
-F9 - Sector Info
-F10 - Full Sector Info
-F11 - Ranged weapon info
-F12 - Freeze mode
-===========================
+============================================================
+Num 0 - AI Disabled
+Num 1 - Armageddon
+Num 2 - God Mode
+Num 3 - You are Walking Death
+Num 4 - Frame Capture
+Num 5 - Render Lights
+Num 6 - Missing Texture
+Num 7 - Collision Debug
+Num 8 - Sector Info
+Num 9 - Full Sector Info
+Num * - Ranged weapon info
+Num + - ps3/x360 button prompt switcher
+Num - - default button prompt/back to previous button state
+Pause - Freeze mode
+===========================================================
