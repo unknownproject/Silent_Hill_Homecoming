@@ -55,6 +55,7 @@ All supported formats (including listed above):
 .PIN - Game properties
 .XWB - Wave Bank
 .XSB - Sound Bank
+.CSV - Data table
 .DDB - Dialog database
 .TXT - Standard text
 .HKC - Cinematic
@@ -70,6 +71,7 @@ All supported formats (including listed above):
 .XML - Serialized XML
 .STR - Localized string table
 .APK - Package
+.HKS - Havok Skeleton
 .HKA - Havok Skeleton Anim
 .HCL - Havok collision data
 .SES - SlayEd scene
