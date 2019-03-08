@@ -1,0 +1,90 @@
+=========================================================================================================================
+Q: What is the difference between your patch and Grasmann's button prompts replacements ? 
+A: My patch is not replacing any button icon. 
+All possible button icons always were in the global pak resource so I just restored only missing one for sticks and qte. 
+And don't forget about my own code that was implemented to make everything works like expected. 
+=========================================================================================================================
+Q: Version 2.0 Called "Unknown project's edition". WTF ? 
+A: Everything is based on my own logic/research/code/opinion/point of view etc.
+=========================================================================================================================
+Q: Is it hard to modify PAK resource ?
+A: No. We have pretty linear structure:
+16 bytes header including "PAK_" magic, version, number of files and 4 null bytes.
+Each Table of contents entry is 88 bytes in size.
+64 of them for filename.
++4 bytes - constant.
++8 bytes - TDS (timedate stamp).
++12 bytes - offset.
++16 bytes - compressed size (for LZO compressed only).
++20 bytes - 2 FF constants (maybe different) and file format. 
++24 bytes - uncompressed size (equal to compressed size for plain/raw resources).
+If offset = 00000000h and size=FFFFFFFFh the file is no longer exits. 
+-------------------------------------------------------------------------------------------------------------------------
+Supported formats (including engine specific):
+FF FF 00 00 - MYS
+FF FF 01 00 - SCT
+FF FF 02 00 - MDL
+FF FF 03 00 - MAT
+FF FF 04 00 - SYT
+FF FF 09 00 - CSV
+FF FF 0B 00 - DDB
+FF FF 0D 00 - HKC
+FF FF 10 00 - PTM
+FF FF 11 00 - PGP
+FF FF 13 00 - PHP
+FF FF 14 00 - MTM
+FF FF 15 00 - XML
+FF FF 16 00 - GAT
+FF FF 17 00 - CAP
+FF FF 1C 00 - HKS
+FF FF 1D 00 - HKA
+FF FF 1E 00 - HCL
+FF FF 1F 00 - SES
+FF FF 22 00 - HKP
+FF FF 23 00 - NVM
+FF FF 27 00 - OGG
+FF FF 28 00 - SAC
+-------------------------------------------------------------------------------------------------------------------------
+All supported formats (including listed above):
+.MYS - Render (Maya) scene
+.SCT - Sector
+.MDL - Model
+.MAT - Material
+.SYT - Texture
+.GIN - Game properties
+.PIN - Game properties
+.XWB - Wave Bank
+.XSB - Sound Bank
+.DDB - Dialog database
+.TXT - Standard text
+.HKC - Cinematic
+.STR - String table //do not edit these files
+.PTM - Particle template
+.PGP - Particle group
+.CMF - FX system table
+.PHP - Phoneme data
+.MTM - Mesh FX template
+.GAT - Attachments
+.CAP - Capsule definitions
+.FTS - Footstep rules
+.XML - Serialized XML
+.STR - Localized string table
+.APK - Package
+.HKA - Havok Skeleton Anim
+.HCL - Havok collision data
+.SES - SlayEd scene
+.XGS - Sound Global Settings File
+.XWS - Streamed Wave Bank
+.HKP - Havok Collision and Constraint
+.NVM - Nav Mesh Sector Data
+.BIK - Bink Movie
+.OGG - Ogg Vorbis sound file
+.SAC - StdAudio Configuration file
+.XMB - Binary XML file
+.GAB - Binary GAT file
+.CAB - Binary CAP file
+.FTB - Binary FTS file 
+=========================================================================================================================
+Q: What if I want to create a new one ?
+A: Good idea but you can't use it without patching the game code.
+=========================================================================================================================
