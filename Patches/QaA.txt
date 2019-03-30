@@ -1,4 +1,24 @@
 =========================================================================================================================
+Q: What's is the date of birth for your patch ?
+A: January of 2018. April of 2019 is 16th month for this project.
+=========================================================================================================================
+Q: How much people in your "team" ?
+A: One. Only my own russian ass. I always work alone.
+=========================================================================================================================
+Q: Who are you?
+A: I was a software cracker and hacker long time ago.
+I've never distributed my cracks for the masses cuz I think it's not ok. 
+And breaking the law if we speak about consequences.
+For now I turned myself to the different side and don't want to crack any kind of copy protection.
+Crackers never analyze the original code if it's not depending on copy protection. They don't care about bugs.
+The software reverse engineering actually aimed to analyze the whole executable code to understand how it works.
+If we speak about games or proprietary software we have to reverse the data storage formats too. 
+Complete research is equal to science research. But no one calles you a scientist at this point.
+=========================================================================================================================
+Q: What's the purpose ?
+A: The original idea was to combine all existing versions to one pc release with all possible bugfixes and code portions.
+If there is no such code it will be implemented by myself.
+=========================================================================================================================
 Q: What is the difference between your patch and Grasmann's button prompts replacements ? 
 A: My patch is not replacing any button icon. 
 All possible button icons always were in the global pak resource so I just restored only missing one for sticks and qte. 
@@ -89,4 +109,8 @@ All supported formats (including listed above):
 =========================================================================================================================
 Q: What if I want to create a new one ?
 A: Good idea but you can't use it without patching the game code.
+=========================================================================================================================
+Q: Can you fix "X" for me ?
+A: No. I don't want to do something personally for you. And waste my time for nothing without time compensation.
+My patch was initiated by myself for my own reason.
 =========================================================================================================================
