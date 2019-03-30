@@ -1,5 +1,5 @@
 =========================================================================================================================
-Q: What's is the date of birth for your patch ?
+Q: What's the date of birth for your patch ?
 A: January of 2018. April of 2019 is 16th month for this project.
 =========================================================================================================================
 Q: How much people in your "team" ?
