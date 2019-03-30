@@ -38,7 +38,7 @@ Each Table of contents entry is 88 bytes in size.
 +16 bytes - compressed size (for LZO compressed only).
 +20 bytes - 2 FF constants (maybe different) and file format. 
 +24 bytes - uncompressed size (equal to compressed size for plain/raw resources).
-If offset = 00000000h and size=FFFFFFFFh the file is no longer exist. 
+If offset = 00000000h and size=FFFFFFFFh the file is no longer exists. 
 -------------------------------------------------------------------------------------------------------------------------
 Supported formats (including engine specific):
 FF FF 00 00 - MYS
