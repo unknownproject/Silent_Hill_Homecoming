@@ -11,7 +11,7 @@ I've never distributed my cracks for the masses cuz I think it's not ok.
 And breaking the law if we speak about consequences.
 For now I turned myself to the different side and don't want to crack any kind of copy protection.
 Crackers never analyze the original code if it's not depending on copy protection. They don't care about bugs.
-The software reverse engineering actually aimed to analyze the whole executable code to understand how it works.
+The software reverse engineering is actually aimed to analyze the whole executable code to understand how it works.
 If we speak about games or proprietary software we have to reverse the data storage formats too. 
 Complete research is equal to science research. But no one calles you a scientist at this point.
 =========================================================================================================================
@@ -21,6 +21,9 @@ If there is no such code it will be implemented by myself.
 =========================================================================================================================
 Q: How much code already implemented ?
 A: About 10000 lines.
+=========================================================================================================================
+Q: How to describe the PC version ?
+A: Unfinished thanks to software division of Konami.
 =========================================================================================================================
 Q: What is the difference between your patch and Grasmann's button prompts replacements ? 
 A: My patch is not replacing any button icon. 
