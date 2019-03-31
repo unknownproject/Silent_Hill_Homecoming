@@ -13,7 +13,7 @@ For now I turned myself to the different side and don't want to crack any kind o
 Crackers never analyze the original code if it's not depending on copy protection. They don't care about bugs.
 The software reverse engineering is actually aimed to analyze the whole executable code to understand how it works.
 If we speak about games or proprietary software we have to reverse the data storage formats too. 
-Complete research is equal to science research. But no one calles you a scientist at this point.
+Complete research is equal to science research. But no one called you a scientist at this point.
 =========================================================================================================================
 Q: What's the purpose ?
 A: The original idea was to combine all existing versions to one pc release with all possible bugfixes and code portions.
@@ -21,6 +21,9 @@ If there is no such code it will be implemented by myself.
 =========================================================================================================================
 Q: How much code already implemented ?
 A: About 10000 lines.
+=========================================================================================================================
+Q: How about the source code ?
+A: Ehhh. No. It's boring to read a lot of assembly stuff. Trust me. Asking me and I will try to explain.
 =========================================================================================================================
 Q: How to describe the PC version ?
 A: Unfinished thanks to software division of Konami.
