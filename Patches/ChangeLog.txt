@@ -1,43 +1,43 @@
 [ Note: every patch iteration is cumulative and includes all previous fixes/features. ]
 
-=======================================================================================
+===========================================================================================================================
 60 FPS Patch - v1.1 [16.02.2018]: 
 - Initial release;
-=======================================================================================
+===========================================================================================================================
 Partial map/item fix is actually second patch but was released for demonstration only.
-=======================================================================================
+===========================================================================================================================
 SecondPatch - v1.2 [23.04.2018]:
 - Changed savegame folder [Engine/Savegame];
 - All fps fixes (config/counter/animation);
 - 4GB Ram flag [.SGL only];
-=======================================================================================
+===========================================================================================================================
 Patch 1.21b aka "beta" [28.04.2018]:
 - Increased fps limit [Up to 300];
-=======================================================================================
+===========================================================================================================================
 Patch 1.21b - Update 1 [07.06.2018]:
 - All previous fixes;
 - Animation sync/fix for higher framerate [Experimental];
-=======================================================================================
+===========================================================================================================================
 Patch 1.21b - Update 2 [07.07.2018]:
 - Maps and items fix for the most common display resolutions;
 - Isolation for QTE\Grain\Flashing animations;
-=======================================================================================
+===========================================================================================================================
 Patch 1.21b - Update 2.1 [21.07.2018]:
 - Universal/More accurate maps and items fix for the most common display resolutions;
-=======================================================================================
+===========================================================================================================================
 Patch 1.21b - Special Update [10.08.2018]:
 - Individual constants for specific resolution groups;
 - New hotkeys (hotkeys.txt);
-=======================================================================================
+===========================================================================================================================
 Patch 1.22 - No More Freezes [08.09.2018]:
 - Disabled broken autosave system;
 - Improved stability as result;
 - Minor animation fix;
-=======================================================================================
+===========================================================================================================================
 Patch 1.23 [06.11.2018]:
 - Up to 4320x2160 Resolution support [Including UI]; 
 - 21:9 aspect ratio compatibility [experimental];
-=======================================================================================
+===========================================================================================================================
 Patch 1.24 [27.11.2018]:
 - General fixes for the both game binaries [.exe and .sgl];
 *Including 4GB Ram flag.
@@ -46,13 +46,13 @@ Patch 1.24 [27.11.2018]:
 Alt+Tab is not recommended in main menu. 
 You can press it if you playing any level but after switching back 
 to the game you will see some textures are corrupted (pixelated).
-=======================================================================================
+===========================================================================================================================
 Patch 1.25 - 2in1 - A and B [02.01.2019]:
 - Fixed 'fpslimit' function.
 *Now you can limit framerate to 30/60/120/144 or 300 via config file;
 - Friendly QTE system [Prying objects/Walls] - [A - easy] / [B - auto];
 - Improved visual effects;
-=======================================================================================
+===========================================================================================================================
 Patch 2.0 - Unknown Project's Edition. B only.
 Update 1 [06.03.2019]:
 - Restored missing button icons/code;
@@ -67,44 +67,44 @@ Don't forget to check the updated hotkeys.txt.
 =======
 [ Note: every patch iteration is cumulative and includes all previous fixes/features. ]
 
-=======================================================================================
+===========================================================================================================================
 60 FPS Patch - v1.1 [16.02.2018]: 
 - Initial release;
-=======================================================================================
+===========================================================================================================================
 Partial map/item fix is actually second patch but was released for demonstration only.
-=======================================================================================
+===========================================================================================================================
 SecondPatch - v1.2 [23.04.2018]:
 - Changed savegame folder [Engine/Savegame];
 - All fps fixes (config/counter/animation);
 - 4GB Ram flag [.SGL only];
-=======================================================================================
+===========================================================================================================================
 Patch 1.21b aka "beta" [28.04.2018]:
 - Increased fps limit [Up to 300];
-=======================================================================================
+===========================================================================================================================
 Patch 1.21b - Update 1 [07.06.2018]:
 - All previous fixes;
 - Animation sync/fix for higher framerate [Experimental];
-=======================================================================================
+===========================================================================================================================
 Patch 1.21b - Update 2 [07.07.2018]:
 - Maps and items fix for the most common display resolutions;
 - Isolation for QTE\Grain\Flashing animations;
-=======================================================================================
+===========================================================================================================================
 Patch 1.21b - Update 2.1 [21.07.2018]:
 - Universal/More accurate maps and items fix for the most common display resolutions;
-=======================================================================================
+===========================================================================================================================
 Patch 1.21b - Special Update [10.08.2018]:
 - Individual constants for specific resolution groups;
 - New hotkeys (hotkeys.txt);
-=======================================================================================
+===========================================================================================================================
 Patch 1.22 - No More Freezes [08.09.2018]:
 - Disabled broken autosave system;
 - Improved stability as result;
 - Minor animation fix;
-=======================================================================================
+===========================================================================================================================
 Patch 1.23 [06.11.2018]:
 - Up to 4320x2160 Resolution support [Including UI]; 
 - 21:9 aspect ratio compatibility [experimental];
-=======================================================================================
+===========================================================================================================================
 Patch 1.24 [27.11.2018]:
 - General fixes for the both game binaries [.exe and .sgl];
 *Including 4GB Ram flag.
@@ -113,13 +113,13 @@ Patch 1.24 [27.11.2018]:
 Alt+Tab is not recommended in main menu. 
 You can press it if you playing any level but after switching back 
 to the game you will see some textures are corrupted (pixelated).
-=======================================================================================
+===========================================================================================================================
 Patch 1.25 - 2in1 - A and B [02.01.2019]:
 - Fixed 'fpslimit' function.
 *Now you can limit framerate to 30/60/120/144 or 300 via config file;
 - Friendly QTE system [Prying objects/Walls] - [A - easy] / [B - auto];
 - Improved visual effects;
-=======================================================================================
+===========================================================================================================================
 Patch 2.0 - Unknown Project's Edition. B only.
 Update 1 [06.03.2019]:
 - Restored missing button icons/code;
@@ -131,4 +131,12 @@ prompts for puzzles/objects/map screen/inventory/weapons/qte;
 If you want to set proper resource for target platform you need to:
 -Open default_pc.cfg and change resmgr value. 
 Don't forget to check the updated hotkeys.txt.
-=======================================================================================
+===========================================================================================================================
+Patch 2.0 - Update 2 [11.04.2019]:
+- Disabled default icon code
+- Restored missing icons/code for mouse-keyboard controls
+- Restored missing icons/strings/code for tips/combat manuals/journal/inventory/weapon screen/menus
+- Fixed mouse-keyboard bindings/added proper string commands
+- Added new keyboard icons
+- Changed and improved interface as result
+===========================================================================================================================
