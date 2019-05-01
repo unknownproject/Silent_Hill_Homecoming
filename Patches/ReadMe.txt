@@ -35,16 +35,29 @@ If you found all missing parts and combined them with existing word then you nee
 Good luck.
 [X and Y = BlackForest].
 And the password is....BlackForestIsDeletedLocation.
-
-You are not allowed to share the password to anyone. 
+==========================================================================================================================
+Patch 2.0 Update 2
+==========================================================================================================================
+RELEASE NOTES.
+md5(Patch2.0_upd2_main.zip) = A05F7DD37B24CB13DFE9AB3EB45B72F8
+md5(Patch2.0_upd2_ps3.zip)  = 83BB0AE1EF23B07F6F56F8FF31AF1190
+md5(Patch2.0_upd2_x360.zip) = B9ECDF7821912898D52639A4B0AE9DFC
+--------------------------------------------------------------------------------------------------------------------------
+No more password.
+It was just a temporary decision against Steam006/His comrades/Konami.
+But my code is my own code and no one will use it without my permission.
 Pay respect or get the hell out of here.
-
-HOW TO INSTALL PATCH 2.0.
-1. Download and extract Patch2.0_upd1_main.zip to the game root folder.
+If Konami is actually planning to delete anything. Well. Let it be. But it will not stop me.
+--------------------------------------------------------------------------------------------------------------------------
+HOW TO INSTALL PATCH 2.0 (including all updates).
+1. Download and extract Patch2.0_upd2_main.zip to the game root folder.
 = If you don't want to change button prompts for Dialogue Tree then skip the next step =
 = but don't forget to change resmgr value to assets_pc_b.xml =
 [You can change it via default_pc.cfg]
-2. Download and extract Patch2.0_upd1_ps3.zip or/and Patch2.0_upd1_x360.zip to the game root folder.
+2. Download and extract Patch2.0_upd2_ps3.zip or/and Patch2.0_upd2_x360.zip to the game root folder.
 Done.
-
- 
+--------------------------------------------------------------------------------------------------------------------------
+HOW TO FIX TIPS/HINTS FOR OTHER LANGUAGES.
+1. Find "###  PC SPECIFIC STRINGS ####".
+2. Add all missing strings/commands using the fixed file - strings.str.
+==========================================================================================================================
