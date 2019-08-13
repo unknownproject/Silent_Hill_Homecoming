@@ -52,7 +52,7 @@ If Konami is actually planning to delete anything. Well. Let it be. But it will 
 HOW TO INSTALL PATCH 2.0 (including all updates).
 1. Download and extract Patch2.0_upd2_main.zip to the game root folder.
 = If you don't want to change button prompts for Dialogue Tree then skip the next step =
-= but don't forget to change resmgr value to assets_pc_b.xml =
+= but don't forget to change resmgr value if you want to use it =
 [You can change it via default_pc.cfg]
 2. Download and extract Patch2.0_upd2_ps3.zip or/and Patch2.0_upd2_x360.zip to the game root folder.
 Done.
