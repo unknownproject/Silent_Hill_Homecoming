@@ -58,6 +58,6 @@ HOW TO INSTALL PATCH 2.0 (including all updates).
 Done.
 --------------------------------------------------------------------------------------------------------------------------
 HOW TO FIX TIPS/HINTS FOR OTHER LANGUAGES.
-1. Find "###  PC SPECIFIC STRINGS ####".
+1. Find "###  PC SPECIFIC STRINGS ####" or "### PC Strings ###".
 2. Add all missing strings/commands using the fixed file - strings.str.
 ==========================================================================================================================
