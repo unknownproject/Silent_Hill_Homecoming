@@ -60,4 +60,5 @@ Done.
 HOW TO FIX TIPS/HINTS FOR OTHER LANGUAGES.
 1. Find "###  PC SPECIFIC STRINGS ####" or "### PC Strings ###".
 2. Add all missing strings/commands using the fixed file - strings.str.
+[strings_FRA.str (strings_SPA.str / strings_ITA.str / strings_GER.str) is what you need to edit.]
 ==========================================================================================================================
