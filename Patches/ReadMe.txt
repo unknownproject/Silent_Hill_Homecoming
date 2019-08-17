@@ -38,11 +38,6 @@ And the password is....BlackForestIsDeletedLocation.
 ==========================================================================================================================
 Patch 2.0 Update 2
 ==========================================================================================================================
-RELEASE NOTES.
-md5(Patch2.0_upd2_main.zip) = A05F7DD37B24CB13DFE9AB3EB45B72F8
-md5(Patch2.0_upd2_ps3.zip)  = 83BB0AE1EF23B07F6F56F8FF31AF1190
-md5(Patch2.0_upd2_x360.zip) = B9ECDF7821912898D52639A4B0AE9DFC
---------------------------------------------------------------------------------------------------------------------------
 No more password.
 It was just a temporary decision against Steam006/His comrades/Konami.
 But my code is my own code and no one will use it without my permission.
