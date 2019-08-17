@@ -44,7 +44,7 @@ But my code is my own code and no one will use it without my permission.
 Pay respect or get the hell out of here.
 If Konami is actually planning to delete anything. Well. Let it be. But it will not stop me.
 --------------------------------------------------------------------------------------------------------------------------
-HOW TO INSTALL PATCH 2.0 (including all updates).
+HOW TO INSTALL PATCH 2.0 Update 2 (including all updates).
 1. Download and extract Patch2.0_upd2_main.zip to the game root folder.
 = If you don't want to change button prompts for Dialogue Tree then skip the next step =
 = but don't forget to change resmgr value if you want to use it =
