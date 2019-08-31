@@ -66,10 +66,26 @@ If you want to set proper resource for target platform you need to:
 Don't forget to check the updated hotkeys.txt.
 ===========================================================================================================================
 Patch 2.0 - Update 2 [11.04.2019]:
-- Disabled default icon code
-- Restored missing icons/code for mouse-keyboard controls
-- Restored missing icons/strings/code for tips/combat manuals/journal/inventory/weapon screen/menus
-- Fixed mouse-keyboard bindings/added proper string commands
-- Added new keyboard icons
-- Changed and improved interface as result
+- Disabled default icon code;
+- Restored missing icons/code for mouse-keyboard controls;
+- Restored missing icons/strings/code for tips/combat manuals/journal/inventory/weapon screen/menus;
+- Fixed mouse-keyboard bindings/added proper string commands;
+- Added new keyboard icons;
+- Changed and improved interface as result.
+===========================================================================================================================
+Patch 2.0 - Update 3 [31.08.2019] - Part 1:
+-Fixed loading screen crash;
+-Improved memory management;
+-Improved multithreading support;
+-Improved overall performance;
+-Improved DirectX usage;
+*Not the DirectX itself like some idiot thinking;
+-Restored previously disabled checkpoint system;
+*Fully functional and doesn't freeze anymore;
+-Optimized one of the hotspots to speedup loading/saving/checkpoint code;
+-Reworked QTE system;
+-Restored missing button icons/code for the rest of puzzles;
+-Increased mouse speed [sensitivity];
+*It isolated from potentially unwanted situations;
+-FreezeMode now supports bink video cutscenes.
 ===========================================================================================================================

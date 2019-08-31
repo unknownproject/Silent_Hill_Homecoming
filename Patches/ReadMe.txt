@@ -57,3 +57,13 @@ HOW TO FIX TIPS/HINTS FOR OTHER LANGUAGES.
 2. Add all missing strings/commands using the fixed file - strings.str.
 [strings_FRA.str (strings_SPA.str / strings_ITA.str / strings_GER.str) is what you need to edit.]
 ==========================================================================================================================
+Patch 2.0 Update 3 - Part 1.
+==========================================================================================================================
+How to install.
+If you already using update2:
+Download and extract Patch2.0_upd3_light_pt1.zip to the game root folder.
+All In One Edition:
+1. Download and run Patch2.0_upd3_AiO_pt1.exe.
+2. Make sure you have enough ram available for extraction process [At least 1GIG].
+3. Click Browse button and select the game root folder.
+==========================================================================================================================
