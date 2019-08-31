@@ -18,6 +18,7 @@ Latest Patch includes:
 - Improved stability by disabling broken autosave system;
 - Isolation for QTE\Grain\Flashing animations;
 - New debug hotkeys [You need to enable FPS counter first].
+ADDITIONAL INFO: Changelog.txt
 
 Warning! 
 Versions <=1.22 are free to access.
