@@ -62,7 +62,7 @@ HOW TO USE NEW LANGUAGE SELECTOR.
 0. Install your localization pack.
 1. Make sure it doesn't conflict with my major updates.
 2. Go the "\Engine\gameinfo\strings" folder.
-3. Add postfix to all .str files [_POL for polish / _RUS for russian and _CZE for czech] -> [strings_RUS.str etc].
+3. Add postfixes to all .str files [_POL for polish / _RUS for russian and _CZE for czech] -> [strings_RUS.str etc].
 4. Go the "\Engine\" folder.
 5. Open default_pc.cfg.
 6. Delete '#' for the language you want to use.
