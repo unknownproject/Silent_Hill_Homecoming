@@ -57,6 +57,15 @@ HOW TO FIX TIPS/HINTS FOR OTHER LANGUAGES.
 1. Find "###  PC SPECIFIC STRINGS ####" or "### PC Strings ###".
 2. Add all missing strings/commands using the fixed file - strings.str.
 [strings_FRA.str (strings_SPA.str / strings_ITA.str / strings_GER.str) is what you need to edit.]
+--------------------------------------------------------------------------------------------------------------------------
+HOW TO USE NEW LANGUAGE SELECTOR.
+0. Make sure it desn't conflict with my major updates.
+1. Install you localization pack.
+2. Go the "\Engine\gameinfo\strings" folder.
+3. Add postfix to all .str files [_POL for polish / _RUS for russian and _CZE for czech] -> [strings_RUS.str etc].
+4. Go the "\Engine\" folder.
+5. Opend default_pc.cfg.
+6. Delete '#' for the language you want to use.
 ==========================================================================================================================
 Patch 2.0 Update 3 - Part 1.
 ==========================================================================================================================
