@@ -59,7 +59,7 @@ HOW TO FIX TIPS/HINTS FOR OTHER LANGUAGES.
 [strings_FRA.str (strings_SPA.str / strings_ITA.str / strings_GER.str) is what you need to edit.]
 --------------------------------------------------------------------------------------------------------------------------
 HOW TO USE NEW LANGUAGE SELECTOR.
-0. Install you localization pack.
+0. Install your localization pack.
 1. Make sure it doesn't conflict with my major updates.
 2. Go the "\Engine\gameinfo\strings" folder.
 3. Add postfix to all .str files [_POL for polish / _RUS for russian and _CZE for czech] -> [strings_RUS.str etc].
