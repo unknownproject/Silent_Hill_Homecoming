@@ -61,11 +61,17 @@ HOW TO FIX TIPS/HINTS FOR OTHER LANGUAGES.
 HOW TO USE NEW LANGUAGE SELECTOR.
 0. Install your localization pack.
 1. Make sure it doesn't conflict with my major updates.
-2. Go the "\Engine\gameinfo\strings" folder.
+2. Go to the "\Engine\gameinfo\strings" folder.
 3. Add postfixes to all .str files [_POL for polish / _RUS for russian and _CZE for czech] -> [strings_RUS.str etc].
-4. Go the "\Engine\" folder.
+4. Go to the "\Engine\" folder.
 5. Open default_pc.cfg.
 6. Delete '#' for the language you want to use.
+--------------------------------------------------------------------------------------------------------------------------
+HOW TO USE NEW RESOURCE MANAGER.
+1. Copy your modified 'global.pak' to the "\Engine\extras\" folder.
+2. Go to the "\Engine\" folder.
+3. Delete/Comment/Replace 'resmgrload = assets_pc_b.xml' to 'resmgrload = your_new_assets_file.xml'.
+[*Note: your_new_assets_file is not a constant].
 ==========================================================================================================================
 Patch 2.0 Update 3 - Part 1.
 ==========================================================================================================================
