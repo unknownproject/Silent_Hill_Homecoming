@@ -1,4 +1,5 @@
 ============================================================
+DEBUG ONLY [Not available without FPS counter]
 Num 0 - AI Disabled
 Num 1 - Armageddon
 Num 2 - God Mode
@@ -7,10 +8,12 @@ Num 4 - Frame Capture
 Num 5 - Render Lights
 Num 6 - Missing Texture
 Num 7 - Collision Debug
+-----------------------------------------------------------
 Num 8 - Sector Info
 Num 9 - Full Sector Info
-Num * - Ranged weapon info
+Num * - Ranged weapon info [Obsolete]
 Num + - ps3/x360 button prompt switcher
 Num - - default button prompt/back to previous button state
 Pause - Freeze mode
+Home - Version info
 ===========================================================
