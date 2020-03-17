@@ -93,7 +93,7 @@ Patch 2 Update 3 - Bonus [01.09.2019]:
 -Added unofficial support for Polish, Czech and Russian languages.
 ===========================================================================================================================
 Patch 2.36 [September 2019 - XX.XX.2020]:
--Preconfigured all neccesary config files;
+-Preconfigured all necessary config files;
 -Applied tripple buffering;
 -Reworked 'fpslimit' function [5th version];
 [30/60/75/90/120/144/150/160/165/180/200/210/240/300];
