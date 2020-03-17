@@ -1,5 +1,5 @@
 Latest Patch includes:
-- Working fpslimit function [30/60/120/144/300]
+- Working fpslimit function [30/60/75/90/120/144/150/160/165/180/200/210/240/300]
 - Friendly QTE system [Prying objects/Walls]
 - Improved visual effects
 - Restored missing button icons/code
