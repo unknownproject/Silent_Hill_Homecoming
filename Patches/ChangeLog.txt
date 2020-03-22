@@ -116,5 +116,3 @@ Patch 2.38 [September 2019 - XX.XX.2020]:
 without breaking the code/fonts or the game
 -Fixed various level-specific logical checks and random stuff [WIP].
 ===========================================================================================================================
-All future releases will be nothing than major hotfixes for the previous one 
-and mostly aimed to fix and optimize the most CPU-intensive < The Slayer Engine > subsystems. Stay tuned.
