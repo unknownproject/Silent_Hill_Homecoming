@@ -3,7 +3,7 @@
 Version 1.25 is the final release for 1.xx iterations.
 Version 2.xx is the final release for 2.xx iterations.
 Version 3.xx is my new WIP patch that focused on The WDDM supported windows versions [Vista/7/8/10].
-3.xx is available for testing purposes [A bonus for v2.xx].
+3.0D is available for testing purposes [As a bonus for v2.xx].
 ===========================================================================================================================
 60 FPS Patch - v1.1 [16.02.2018]: 
 - Initial release;
@@ -123,7 +123,7 @@ Patch 2.xx [September 2019 - XX.XX.2020]:
 -Enhanced resource manager;
 *Now you can use your own 'global.pak' 
 without breaking the code/fonts or the game
--Fixed various level-specific logical checks and random stuff [WIP].
+-Fixed various level-specific logical checks [WIP].
 ===========================================================================================================================
 Patch 3.xx - Future release.
 -Suppresed the 'lost device' algorithm by using the WDDM driver model [if supported];
