@@ -1,6 +1,6 @@
-===============================================================
+=========================================================================
 DEBUG ONLY [Not available without FPS counter]
----------------------------------------------------------------
+-------------------------------------------------------------------------
 Num 0    - AI Disabled
 Num 1    - Armageddon
 Num 2    - God Mode
@@ -9,7 +9,7 @@ Num 4    - Frame Capture
 Num 5    - Render Lights
 Num 6    - Missing Texture Simulation
 Num 7    - Collision Debug
----------------------------------------------------------------
+-------------------------------------------------------------------------
 Num 8    - Sector Info
 Num 9    - Full Sector Info
 Num *    - Ranged weapon info [Obsolete]
@@ -17,12 +17,17 @@ Num +    - ps3/x360 button prompt switcher
 Num -    - default button prompt/back to previous button state
 Pause    - Freeze mode
 Home     - Version info
----------------------------------------------------------------
-Special Effects Control [Global] [Triggered between levels]
----------------------------------------------------------------
+L.Alt+R  - Restart current level [2.48] 
+-------------------------------------------------------------------------
+Special Effects Control [Global] [Triggered between levels] [2.48]
+-------------------------------------------------------------------------
 Insert   - Fog
 Delete   - WeatherSnow
 End      - WeatherParticleFog
 PageUp   - CinemaFilterGrain
 PageDown - CinemaFilterTint
-===============================================================
+=========================================================================
+Note: I didn't change the purpose of these functions (excluding my own).
+These functions are related to 'Slayer Engine' build tools.
+THEY ARE NOT SUPPOSED TO BE 100% STABLE AND SAFE TO USE.
+I strongly recommend to use them only if you can't complete the game.
