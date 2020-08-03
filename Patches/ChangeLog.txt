@@ -105,7 +105,6 @@ Patch 2.xx [September 2019 - XX.XX.2020]:
 -Applied an isolation between the Loading Screen/partical fog;
 -Improved WinApi usage for CreateWindowExA/DestroyWindow functions;
 -Eliminated potential deadlocks;
--Applied tripple buffering;
 -Reworked 'fpslimit' function [5th version];
 [30/60/75/90/120/144/150/160/165/180/200/210/240/300];
 -Fixed and improved native vsync/vsyncInterval/antiAlias settings;
