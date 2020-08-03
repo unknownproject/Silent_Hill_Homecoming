@@ -17,9 +17,9 @@ Num +    - ps3/x360 button prompt switcher
 Num -    - default button prompt/back to previous button state
 Pause    - Freeze mode
 Home     - Version info
-L.Alt+R  - Restart current level [2.48] 
+L.Alt+R  - Restart current level [2.48+] 
 -------------------------------------------------------------------------
-Special Effects Control [Global] [Triggered between levels] [2.48]
+Special Effects Control [Global] [Triggered between levels] [2.48+]
 -------------------------------------------------------------------------
 Insert   - Fog
 Delete   - WeatherSnow
