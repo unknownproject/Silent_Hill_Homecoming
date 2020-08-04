@@ -101,7 +101,6 @@ Patch 2.xx [September 2019 - XX.XX.2020]:
  [Silently terminates the game to prevent the Alt-Tab crash]
 -Improved 'default_pc.cfg' structure;
 -Preconfigured all necessary config files;
--Increased the accuracy of Sleep/SleepEx/WaitFor and other time functions;
 -Applied an isolation between the Loading Screen/partical fog;
 -Improved WinApi usage for CreateWindowExA/DestroyWindow functions;
 -Eliminated potential deadlocks;
