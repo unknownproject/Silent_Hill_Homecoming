@@ -6,14 +6,14 @@ Q: How much people in your "team" ?
 A: One. Only my own russian ass. I always work alone.
 =========================================================================================================================
 Q: Who are you?
-A: I was a software cracker and hacker long time ago.
+A: I was a software cracker and a hacker long time ago.
 I've never distributed my cracks for the masses cuz I think it's not ok. 
 And breaking the law if we speak about consequences.
 For now I turned myself to the different side and don't want to crack any kind of copy protection.
 Crackers never analyze the original code if it's not depending on copy protection. They don't care about bugs.
 The software reverse engineering is actually aimed to analyze the whole executable code to understand how it works.
 If we speak about games or proprietary software we have to reverse the data storage formats too. 
-Complete research is equal to science research. But no one called you a scientist at this point.
+Complete research is equal to the science research. But no one called you a scientist at this point.
 =========================================================================================================================
 Q: What's the purpose ?
 A: The original idea was to combine all existing versions to one pc release with all possible bugfixes and code portions.
@@ -36,7 +36,7 @@ And don't forget about my own code that was implemented to make everything works
 Q: Version 2.0 Called "Unknown project's edition". WTF ? 
 A: Everything is based on my own logic/research/code/opinion/point of view etc.
 =========================================================================================================================
-Q: Is it hard to modify PAK resource ?
+Q: Is it hard to modify the PAK resource ?
 A: No. We have pretty linear structure:
 16 bytes header including "PAK_" magic, version, number of files and 4 null bytes.
 Each Table of contents entry is 88 bytes in size.
