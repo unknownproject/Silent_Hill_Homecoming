@@ -11,16 +11,16 @@ Version 3.xx is my new WIP patch that focused on The WDDM supported windows vers
 Partial map/item fix is actually second patch but was released for demonstration only.
 ===========================================================================================================================
 SecondPatch - v1.2 [23.04.2018]:
-- Changed savegame folder [Engine/Savegame];
+- Changed the savegame folder [Engine/Savegame];
 - All fps fixes (config/counter/animation);
 - 4GB Ram flag [.SGL only];
 ===========================================================================================================================
 Patch 1.21b aka "beta" [28.04.2018]:
-- Increased fps limit [Up to 300];
+- Increased the fps limit [Up to 300];
 ===========================================================================================================================
 Patch 1.21b - Update 1 [07.06.2018]:
 - All previous fixes;
-- Animation sync/fix for higher framerate [Experimental];
+- Animation syncs/fixes for higher framerate [Experimental];
 ===========================================================================================================================
 Patch 1.21b - Update 2 [07.07.2018]:
 - Maps and items fix for the most common display resolutions;
@@ -36,7 +36,7 @@ Patch 1.21b - Special Update [10.08.2018]:
 Patch 1.22 - No More Freezes [08.09.2018]:
 - Disabled broken autosave system;
 - Improved stability as a result;
-- Minor animation fix;
+- Minor animation fixes;
 ===========================================================================================================================
 Patch 1.23 [06.11.2018]:
 - Up to 4320x2160 Resolution support [Including UI]; 
@@ -113,13 +113,13 @@ Patch 2.xx [September 2019 - XX.XX.2020]:
 -Restored the ToneMap filter;
 -Enabled the GammaCorrection flag [if possible];
 -Improved the hotkeys code;
--Improved special effects control;
+-Improved the special effects control;
 -Replaced keyboard icons;
 -Disabled In-Game objectives [HARD MODE];
 -Disabled Loading Screen tips [HARD MODE];
 -Rebalanced In-Game difficulty levels [ENEMY HEALTH];
--Improved wound manager/Rebalanced damage system [WIP];
--Enhanced resource manager;
+-Improved the wound manager/Rebalanced the damage system [UNLOCKABLE COSTUMES];
+-Enhanced the resource manager;
 *Now you can use your own 'global.pak' 
 without breaking the code/fonts or the game
 -Fixed various level-specific logical checks [WIP].
