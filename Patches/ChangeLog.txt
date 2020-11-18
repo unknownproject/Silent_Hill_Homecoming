@@ -114,6 +114,7 @@ Patch 2.xx [September 2019 - XX.XX.2020]:
 -Enabled the GammaCorrection flag [if possible];
 -Improved the hotkeys code;
 -Improved the special effects control;
+-Enhanced camera control;
 -Replaced keyboard icons;
 -Disabled In-Game objectives [HARD MODE];
 -Disabled Loading Screen tips [HARD MODE];
