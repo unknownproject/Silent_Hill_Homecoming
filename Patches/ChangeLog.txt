@@ -115,6 +115,8 @@ Patch 2.xx [September 2019 - XX.XX.2020]:
 -Improved the hotkeys code;
 -Improved the special effects control;
 -Enhanced camera control;
+-Enhanced volume control [Music/Dialogue/Radio/Sound Effects];
+-Enhanced brightness control;
 -Replaced keyboard icons;
 -Disabled In-Game objectives [HARD MODE];
 -Disabled Loading Screen tips [HARD MODE];
