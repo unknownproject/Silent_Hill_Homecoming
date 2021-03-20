@@ -97,6 +97,7 @@ Patch 2 Update 3 - Bonus [01.09.2019]:
 -Added unofficial support for Polish, Czech and Russian languages.
 ===========================================================================================================================
 Patch 2.xx [September 2019 - XX.XX.2020]:
+-Fixed one of the critical retail version bugs (Confirmed for all platforms);
 -Improved the 'lost device' algorithm;
  [Silently terminates the game to prevent the Alt-Tab crash]
 -Improved 'default_pc.cfg' structure;
